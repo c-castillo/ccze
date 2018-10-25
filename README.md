@@ -1,0 +1,2 @@
+# ccze
+Colorize commands output
